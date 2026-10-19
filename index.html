@@ -21,6 +21,10 @@
             padding: 0;
         }
 
+        html {
+            scroll-behavior: smooth;
+        }
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             background-color: var(--bg-color);
@@ -95,11 +99,26 @@
             margin-top: 1.5rem;
         }
 
+        .pillar-link {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
         .pillar {
             background-color: rgba(255, 255, 255, 0.02);
             border: 1px solid var(--border-color);
             border-radius: 8px;
             padding: 1.25rem;
+            height: 100%;
+            transition: all 0.2s ease;
+            cursor: pointer;
+        }
+
+        .pillar-link:hover .pillar {
+            border-color: var(--accent-color);
+            transform: translateY(-3px);
+            background-color: rgba(56, 189, 248, 0.05);
         }
 
         .pillar h3 {
@@ -110,6 +129,22 @@
 
         .pillar p {
             font-size: 0.95rem;
+        }
+
+        .detail-section {
+            scroll-margin-top: 2rem;
+        }
+
+        .back-top {
+            display: inline-block;
+            margin-top: 1rem;
+            font-size: 0.875rem;
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+
+        .back-top:hover {
+            text-decoration: underline;
         }
 
         footer {
@@ -124,11 +159,6 @@
 
         a {
             color: var(--accent-color);
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
         }
     </style>
 </head>
@@ -140,32 +170,75 @@
     </header>
 
     <main>
+        <!-- Main Framework Overview -->
         <div class="card">
             <h2>Framework Overview</h2>
             <p>
                 The CNE protocol provides an institutional and philosophical framework dedicated to deep-time archiving, civilizational identity, and scientific knowledge synthesis.
             </p>
+            <p><em>Click on any pillar below to explore its foundational scope:</em></p>
             
             <div class="grid">
-                <div class="pillar">
-                    <h3>Cosmos</h3>
-                    <p>Understanding fundamental physical structures, computational universe dynamics, and physical reality.</p>
-                </div>
-                <div class="pillar">
-                    <h3>Nowness</h3>
-                    <p>Capturing contemporary human consciousness, scientific consensus, and operational civic frameworks.</p>
-                </div>
-                <div class="pillar">
-                    <h3>Eternities</h3>
-                    <p>Architecting deep-time preservation mechanisms designed to withstand civilizational transitions.</p>
-                </div>
+                <a href="#cosmos" class="pillar-link">
+                    <div class="pillar">
+                        <h3>Cosmos ➔</h3>
+                        <p>Understanding fundamental physical structures, computational universe dynamics, and physical reality.</p>
+                    </div>
+                </a>
+                <a href="#nowness" class="pillar-link">
+                    <div class="pillar">
+                        <h3>Nowness ➔</h3>
+                        <p>Capturing contemporary human consciousness, scientific consensus, and operational civic frameworks.</p>
+                    </div>
+                </a>
+                <a href="#eternities" class="pillar-link">
+                    <div class="pillar">
+                        <h3>Eternities ➔</h3>
+                        <p>Architecting deep-time preservation mechanisms designed to withstand civilizational transitions.</p>
+                    </div>
+                </a>
             </div>
         </div>
 
-        <div class="card">
-            <h2>Repository & Archive</h2>
+        <!-- Pillar Details Sections -->
+        <div id="cosmos" class="card detail-section">
+            <h2>Cosmos: Fundamental Physical Structures</h2>
             <p>
-                This static portal anchors the primary web presence for the CNE protocol. Official documentation, publications, and deep-time dataset archives are indexed through Zenodo and decentralized record hosts.
+                The <strong>Cosmos</strong> pillar focuses on synthesizing physical reality from fundamental principles. It incorporates computational cosmology, theoretical physics models (including the Wolfram Physics Project framework), quantum gravity architectures, and the overarching mathematical structures governing our universe.
+            </p>
+            <p>
+                Key focus areas include non-contradictory scientific models, space-time representations, and deep physical constants.
+            </p>
+            <a href="#" class="back-top">↑ Back to Top</a>
+        </div>
+
+        <div id="nowness" class="card detail-section">
+            <h2>Nowness: Present State & Human Identity</h2>
+            <p>
+                The <strong>Nowness</strong> pillar captures the contemporary state of human knowledge, consciousness, and institutional identity. It acts as an active snapshot of current scientific consensus, human expression, civic initiatives, and observational paradigms.
+            </p>
+            <p>
+                It grounds abstract cosmological principles in real-time civilizational progress, ethics, and knowledge synthesis.
+            </p>
+            <a href="#" class="back-top">↑ Back to Top</a>
+        </div>
+
+        <div id="eternities" class="card detail-section">
+            <h2>Eternities: Deep-Time Preservation</h2>
+            <p>
+                The <strong>Eternities</strong> pillar addresses the challenge of deep-time information archiving. It designs data structures, digital/physical preservation mechanisms, and decentralized record hosts capable of surviving institutional decay and civilizational shifts.
+            </p>
+            <p>
+                Official documentation, dataset registries, and public archives are linked across persistent repositories, including Zenodo and decentralized archives.
+            </p>
+            <a href="#" class="back-top">↑ Back to Top</a>
+        </div>
+
+        <!-- Repository Info -->
+        <div class="card">
+            <h2>Repository & Archive Portal</h2>
+            <p>
+                This static portal anchors the primary web presence for the CNE protocol.
             </p>
             <p>
                 Domain: <a href="http://cnecosmosnownesseternities.org">cnecosmosnownesseternities.org</a>
