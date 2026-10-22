@@ -38,3 +38,14 @@ This paper presents an epistemic architecture that respectfully maps empirical s
 * `index.html` — Public-facing web portal entry point (`cosmosnownesseternities.org`).
 * `CNAME` — Custom domain configuration.
 * `LICENSE` — Legal terms governing this repository under CC-BY 4.0.
+## Citation
+
+If you reference, adapt, or build upon this work, please cite it as:
+
+> Naik, Vishram. (2026). *Mapping Empirical Science as Subsidiary Books of Religion: A Non-Contradictory Framework for Objective Existence*. CNE Initiative. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+
+---
+
+## License
+
+This project is licensed under the **Creative Commons Attribution 4.0 International License** — see the [LICENSE](LICENSE) file for details.
