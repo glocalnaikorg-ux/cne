@@ -42,7 +42,7 @@ This paper presents an epistemic architecture that respectfully maps empirical s
 
 If you reference, adapt, or build upon this work, please cite it as:
 
-> Naik, Vishram. (2026). *Mapping Empirical Science as Subsidiary Books of Religion: A Non-Contradictory Framework for Objective Existence*. CNE Initiative. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Naik, Vishram. (2026). *Mapping Empirical Science as Subsidiary Books of Religion: A Non-Contradictory Framework for Objective Existence*. CNE Initiative. Zenodo. https://doi.org/10.5281/zenodo.23571543
 
 ---
 
