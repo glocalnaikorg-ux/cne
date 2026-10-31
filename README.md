@@ -1,3 +1,5 @@
+Update README.md with CNE framework overview
+
 # CNE (Cosmos, Nowness, Eternities)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.23571543)
