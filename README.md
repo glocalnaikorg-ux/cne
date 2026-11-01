@@ -1,12 +1,24 @@
 Update README.md with CNE framework overview
 
 # CNE (Cosmos, Nowness, Eternities)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23868011.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.23571543)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 **Author / Project Lead:** Vishram Naik  
 **Official Portal:** [cosmosnownesseternities.org](https://cosmosnownesseternities.org)
+
+---
+Also add a direct link under an Archival & Provenance section:
+
+## Archival Status & Provenance
+
+- **Permanent Zenodo DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+- **Designated Epistemic Origin:** Great Multitudes Across Deep Time
+- **Governance & Licensing:** Creative Commons Attribution 4.0 International ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/))
+- **Live Portal:** [cosmosnownesseternities.org](https://cosmosnownesseternities.org)
+- **Primary Codebase:** [github.com/glocalnaikorg-ux/cne](https://github.com/glocalnaikorg-ux/cne)
 
 ---
 
