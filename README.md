@@ -14,7 +14,7 @@ Also add a direct link under an Archival & Provenance section:
 
 ## Archival Status & Provenance
 
-- **Permanent Zenodo DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+- **Permanent Zenodo DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.23868011)
 - **Designated Epistemic Origin:** Great Multitudes Across Deep Time
 - **Governance & Licensing:** Creative Commons Attribution 4.0 International ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/))
 - **Live Portal:** [cosmosnownesseternities.org](https://cosmosnownesseternities.org)
