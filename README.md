@@ -56,15 +56,3 @@ If you reference, adapt, or build upon this work, please cite it as:
 This project is licensed under the Creative Commons Attribution 4.0 International License — see the [LICENSE](LICENSE) file for details.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
