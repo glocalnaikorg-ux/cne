@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or reference the Cosmos, Nowness, Eternities (CNE) framework, please cite it using these metadata."
+title: "Cosmos, Nowness, Eternities (CNE) Framework"
+abstract: "An autonomous, decentralized public-domain initiative establishing universal scientific literacy, ground-level ethics, and deep-time conflict mitigation."
+type: dataset
+license: CC-BY-4.0
+repository-code: "https://github.com/glocalnaikorg-ux/cne"
+url: "https://cosmosnownesseternities.org"
+authors:
+  - family-names: "Naik"
+    given-names: "Vishram Ganpat"
+    alias: "Vishram Ganpat Naik (DOB: Tue 09 Dec 1958)"
+    role: "Project Lead and Primary Author"
+  - name: "Great Multitudes Across Deep Time"
+    role: "Co-Creator Designation"
+contributors:
+  - name: "Gemini (Google DeepMind)"
+    role: "AI Technical Engine & Thought Matrix Synthesizer (Non-Authorial)"
