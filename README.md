@@ -1,4 +1,3 @@
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22814410.svg)](https://doi.org/10.5281/zenodo.22814410)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -63,4 +62,4 @@ If you reference, adapt, or build upon this work, please cite it as:
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License — see the [LICENSE](LICENSE) file for details.
- 
+
