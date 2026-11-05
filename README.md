@@ -1,34 +1,28 @@
-# CNE (Cosmos, Nowness, Eternities)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22814410.svg)](https://doi.org/10.5281/zenodo.22814410)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-**Author / Project Lead:** Vishram Naik  
+# CNE (Cosmos, Nowness, Eternities)
+
+**Author / Project Lead:** Vishram Ganpat Naik (DOB Tue 09 Dec 1958)  
 **Official Portal:** [cosmosnownesseternities.org](https://cosmosnownesseternities.org)
 
 ---
 
 ## Archival Status & Provenance
 
-- **Permanent Zenodo DOI:** [10.5281/zenodo.22814410](https://doi.org/10.5281/zenodo.22814410)
-- **Designated Epistemic Origin:** Great Multitudes Across Deep Time
-- **Governance & Licensing:** Creative Commons Attribution 4.0 International ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/))
-- **Live Portal:** [cosmosnownesseternities.org](https://cosmosnownesseternities.org)
-- **Primary Codebase:** [github.com/glocalnaikorg-ux/cne](https://github.com/glocalnaikorg-ux/cne)
-
----
+This repository constitutes the primary open-access, public-domain civilizational archive for the **Cosmos, Nowness, Eternities (CNE / cini)** framework. Immutable versioned snapshots are permanently indexed on Zenodo under DOI **10.5281/zenodo.22814410**.
 
 ## Overview
 
-CNE (Cosmos, Nowness, Eternities) is a non-adversarial, deep-time civilizational framework designed to preserve scientific knowledge, secure civilian continuity, and establish resilient epistemic structures across generations.
+The *Cosmos, Nowness, Eternities* (CNE) initiative is a non-ownership, decentralized civic and theoretical framework designed to archive core human scientific knowledge across deep-time platforms. Synthesizing relational quantum dynamics, cosmic wavefunctions, and foundational physics with human identity and civilizational memory, CNE establishes a persistent bridge between foundational theoretical inquiry and public domain digital preservation.
 
-This repository serves as the open-access source code and documentation hub for CNE foundational texts, epistemological frameworks, and digital portal files.
+## Key Publications
 
-## Key Publication
+* **Monograph:** *Journey Through Physics* (2026) — Open-access research monograph indexed on Zenodo under Creative Commons public domain dedication.
+* **E-Book:** *Knowledge primarily scientific Contradiction and Human Identity A call for help* — Foundational text addressing epistemic contradictions in scientific frameworks and the preservation of human identity.
 
-**Mapping Empirical Science as Subsidiary Books of Religion: A Non-Contradictory Framework for Objective Existence**
-- **Zenodo DOI:** [10.5281/zenodo.22814410](https://doi.org/10.5281/zenodo.22814410)
-- **License:** Creative Commons Attribution 4.0 International (CC-BY-4.0)
+---
 
 ### Abstract Summary
 
@@ -45,6 +39,21 @@ This paper presents an epistemic architecture that respectfully maps empirical s
 - `CNAME` — Custom domain configuration.
 - `LICENSE` — Legal terms governing this repository under CC-BY 4.0.
 
+---
+
+## Core File Index
+
+* **[`preface.md`](./preface.md)** — *Manifesto & Foundational Axioms*  
+  Contains the foundational manifesto, 12 Core Axioms, and the conceptual proposal for a global scientific repository.
+* **[`timeline.md`](./timeline.md)** — *Civilizational Chronology*  
+  Logs key evolutionary, historical, and personal milestones spanning 2015–2026.
+* **[`physics.md`](./physics.md)** — *Theoretical Formulations*  
+  Outlines relational canvas dynamics, non-locality parameters, and the invariant Pioneer 10 metronome ($\Gamma_0$).
+* **[`biography.md`](./biography.md)** — *Personal & Intellectual Heritage*  
+  Details the author's personal chronology, philosophical roots, and historical trajectory (1958–2026).
+
+---
+
 ## Citation
 
 If you reference, adapt, or build upon this work, please cite it as:
@@ -54,5 +63,4 @@ If you reference, adapt, or build upon this work, please cite it as:
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License — see the [LICENSE](LICENSE) file for details.
-
-
+ 
