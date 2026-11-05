@@ -16,7 +16,7 @@ Growing up in Bandra, Mumbai, in the quiet lane directly opposite St. Theresa's 
 
 ## 2. Dec 1974: The Catalyst of Loss & The Quest for Ultimate Reality
 
-Initially intending to pursue medicine, I opted for Biology in school, eventually completing the Intermediate Science examinations. In December 1974, at the age of 16, my father—a Professor of Mathematics with a deep philosophical orientation toward Hindu philosophy—passed away. 
+Initially intending to pursue medicine, I opted for Biology in college, eventually completing the Intermediate Science examinations. In December 1974, at the age of 16, my father—a Professor of Mathematics with a deep philosophical orientation toward Hindu philosophy—passed away. 
 
 This sudden loss ignited a persistent, lifelong quest to comprehend the **Ultimate Reality of Nature**. While my father held a philosophical bend towards Hindu thought and traditional astronomical calculations (*Hindu Panchang*), I developed a critical distinction early on: separating valid astronomical math from predictive astrology, which I saw as ungrounded. Although we never had the chance to hold mature conversations on cosmology before his passing, his mathematical and philosophical spirit anchored my trajectory.
 
