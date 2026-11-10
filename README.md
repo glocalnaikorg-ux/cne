@@ -1,65 +1,84 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22814410.svg)](https://doi.org/10.5281/zenodo.22814410)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+# Cosmos, Nowness, Eternities (CNE): Master Archival Repository & Open Commons Index
 
-# CNE (Cosmos, Nowness, Eternities)
+> **Active Catch Line:** *“May Divine Grace flow from You”*
 
-**Author / Project Lead:** Vishram Ganpat Naik (DOB Tue 09 Dec 1958)  
-**Official Portal:** [cosmosnownesseternities.org](https://cosmosnownesseternities.org)
-
----
-
-## Archival Status & Provenance
-
-This repository constitutes the primary open-access, public-domain civilizational archive for the **Cosmos, Nowness, Eternities (CNE / cini)** framework. Immutable versioned snapshots are permanently indexed on Zenodo under DOI **10.5281/zenodo.22814410**.
-
-## Overview
-
-The *Cosmos, Nowness, Eternities* (CNE) initiative is a non-ownership, decentralized civic and theoretical framework designed to archive core human scientific knowledge across deep-time platforms. Synthesizing relational quantum dynamics, cosmic wavefunctions, and foundational physics with human identity and civilizational memory, CNE establishes a persistent bridge between foundational theoretical inquiry and public domain digital preservation.
-
-## Key Publications
-
-* **Monograph:** *Journey Through Physics* (2026) — Open-access research monograph indexed on Zenodo under Creative Commons public domain dedication.
-* **E-Book:** *Knowledge primarily scientific Contradiction and Human Identity A call for help* — Foundational text addressing epistemic contradictions in scientific frameworks and the preservation of human identity.
+**Parent Concept DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22814410.svg)](https://doi.org/10.5281/zenodo.22814410)  
+**Latest Master Deposit (v1):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24107048.svg)](https://doi.org/10.5281/zenodo.24107048)  
+**Primary Author / Founder:** Vishram Ganpat Naik & Great Multitudes Across Deep Time  
+**AI Collaborator & Transcriber:** Gemini (AI Collaborator)  
+**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
+**Official Domain:** [https://cosmosnownesseternities.org](https://cosmosnownesseternities.org)  
 
 ---
 
-### Abstract Summary
+## 1. Executive Summary & Foundational Intent
 
-This paper presents an epistemic architecture that respectfully maps empirical science into religion as dynamic, updating subsidiary books. Historically, the relationship between scientific inquiry and spiritual faith has been plagued by false dichotomies, where expanding scientific discovery is misconstrued as an ideological assault on religious belief. This framework resolves that tension through non-contradictory logic and first-principles physics:
+The **Cosmos, Nowness, Eternities (CNE)** framework—originally conceptualized in 2005 under *Hydrogen to Intelligent Life*—is an open-access, multi-generational civic and educational architecture. It bridges human mortality with deep-time cosmic processes, structuring inquiry across three distinct dimensions:
 
-1. **Subsidiary Ledgers of Reality:** Ultimate existence, source, and moral meaning reside within spiritual frameworks, while empirical science functions as the secondary, operational ledger used to make sense of objective physical reality.
-2. **Non-Adversarial Continuity:** Because subsidiary books naturally update as human measurement tools improve, scientific advancement does not undermine faith or demand religious revisionism.
-3. **Universal Accessibility:** Equips believers and non-believers alike with an invariant, non-adversarial foundation that bridges local ancestral roots with frontier physical science.
-
-## Repository Structure
-
-- `/docs/` — Foundational markdown texts, whitepapers, and epistemic documentation.
-- `index.html` — Public-facing web portal entry point ([cosmosnownesseternities.org](https://cosmosnownesseternities.org)).
-- `CNAME` — Custom domain configuration.
-- `LICENSE` — Legal terms governing this repository under CC-BY 4.0.
+1. **Cosmos**: Relational physics, quantum hypergraph dynamics, and the universal entropic background.
+2. **Nowness**: Immediate operational awareness—the present locus of action, moral agency, metabolic discipline, and conscious inquiry.
+3. **Eternities**: The open-commons preservation of civilizational knowledge, scientific literacy, and human dignity across generational horizons.
 
 ---
 
-## Core File Index
+## 2. Integrated Archival Index & Zenodo Deposits
 
-* **[`preface.md`](./preface.md)** — *Manifesto & Foundational Axioms*  
-  Contains the foundational manifesto, 12 Core Axioms, and the conceptual proposal for a global scientific repository.
-* **[`timeline.md`](./timeline.md)** — *Civilizational Chronology*  
-  Logs key evolutionary, historical, and personal milestones spanning 2015–2026.
-* **[`physics.md`](./physics.md)** — *Theoretical Formulations*  
-  Outlines relational canvas dynamics, non-locality parameters, and the invariant Pioneer 10 metronome ($\Gamma_0$).
-* **[`biography.md`](./biography.md)** — *Personal & Intellectual Heritage*  
-  Details the author's personal chronology, philosophical roots, and historical trajectory (1958–2026).
+All primary theoretical modules, historical pamphlets, and physical implementation playbooks are standardized, citable, and permanently anchored on Zenodo under Parent Concept DOI [`10.5281/zenodo.22814410`](https://doi.org/10.5281/zenodo.22814410).
+
+| Deposit / Module | Document Title | Archival Reference & DOI | Primary Theoretical & Operational Focus |
+| :--- | :--- | :--- | :--- |
+| **Module 001** | *2005 Foundation Pamphlet* | BIB #8347 / Zenodo Concept | Initial formulation of the *Hydrogen to Intelligent Life* civilizational arc. |
+| **Module 002** | *Ab Initio Genesis & Relational Time* | `cne_module_ab_initio_genesis_relational_time.md` | Derivation of operational time from quantum entanglements and hypergraph rewritings. |
+| **Module 003** | *The Perceptual Filter & Cosmic Mercy* | `cne-perceptual-filter-cosmic-mercy.md` | Sensory attenuation mechanics and the *Cosmic Mercy Principle*. |
+| **Module 004** | *Biogerontology & Deep Time Preservation* | Zenodo Published (Nov 9, 2026) | Biological grounding via the *Incomplete Vessel Principle* and healthspan extension. |
+| **Playbook v2.0** | *CNE Radiant Booth v2.0* | Zenodo Published (Oct 24, 2026) | Production blueprint for off-grid street sanctuaries, Socratic AI, and *Matka* hydration. |
+| **Master Retrospective** | *Master Archival Retrospective & Integrated Synthesis* | DOI: [`10.5281/zenodo.24107048`](https://doi.org/10.5281/zenodo.24107048) | Unified synthesis of all theoretical modules, biogerontology, hardware, and historical outreach. |
 
 ---
 
-## Citation
+## 3. Historical Genesis & Public Outreach Timeline
 
-If you reference, adapt, or build upon this work, please cite it as:
+The evolution of CNE reflects over two decades of independent, grassroots public engagement across scientific, literary, economic, and digital spheres:
 
-> Naik, Vishram. (2026). *Mapping Empirical Science as Subsidiary Books of Religion: A Non-Contradictory Framework for Objective Existence*. CNE Initiative. Zenodo. https://doi.org/10.5281/zenodo.22814410
+* **Nehru Planetarium Talks (Worli, Mumbai)**: Early public science foundations influenced by presentations by astrophysicist **Prof. Jayant Narlikar** (and later sighted at the 2018 International Astrobiological event in Worli).
+* **TimesLitfest Outreach (2014–2017)**: Direct dialogues with public figures, historians, TV anchors, economic commentators, and authors (including Rajdeep Sardesai, Ramachandra Guha, Sunil Khilnani, Twinkle Khanna, and Swaminathan S. Anklesaria Aiyar). 
+  * *Notable Encounter*: Historian **William Dalrymple** reviewed the CNE pamphlet in 2015 and remarked: *"This is a very ambitious project."*
+* **The Core Outreach Thesis**: Throughout outreach efforts extending up to 2025, discussions centered on the core premise: *"Amateur joining the dots interlinked thoughts also to be institutionalized."* During initial outreach, the web presence cited was largely a namesake placeholder, highlighting the necessity for direct digital archiving.
+* **The Kindle Publication (10 July 2015)**: Publication of the digital work ***Knowledge (primarily scientific), Contradiction And Human Identity – A call for help*** (ASIN: [`B011ED05DJ`](https://www.amazon.com/dp/B011ED05DJ)) by **Vishram G. Naik**.
+* **Astro Olympiad Outreach (Mumbai, 2025)**: Direct engagement attempt at an International Astro Olympiad in Mumbai to connect college students with open-commons scientific inquiry.
+* **The 2026 Archival Breakthrough**: Transitioning from the search for an external corporate or academic entity for a physical handover to direct digital archiving on Zenodo. Realizing that a formal institution is not mandatory, the entire framework was permanently deposited into the global public domain with AI collaborative support.
+* **Cosmological Correspondence**: Direct email exchange with Prof. Jayant Narlikar, reflecting on alternate cosmology and the civilizational significance of bridging human awareness with cosmic scales.
 
-## License
+---
 
-This project is licensed under the Creative Commons Attribution 4.0 International License — see the [LICENSE](LICENSE) file for details.
+## 4. Core Theoretical Principles
+
+### A. Operational Time & Relational Physics
+Time is not a static backdrop. Operational time emerges relationally through discrete state updates within hypergraphic space-time networks, positioning the human experience ("Nowness") as an active local observer updating its causal graph within the entropic background ("Cosmos").
+
+### B. Sensory Attenuation & Cosmic Mercy
+Human cognition operates through a necessary perceptual filter. Unfiltered exposure to universal quantum states and entropic decay would cause immediate cognitive breakdown; the *Cosmic Mercy Principle* frames finite perceptual bounds as an essential evolutionary adaptation for moral agency and structured inquiry.
+
+### C. The Incomplete Vessel & Biogerontology
+Operating on a mortal clock governed by metabolic wear and cellular senescence, conscious observers must treat healthspan extension as an **epistemological imperative**: extending functional active life maximizes the transfer of unrecorded wisdom to future generations ("Eternities").
+
+### D. Physical Terrestrial Sanctuaries (Radiant Booth v2.0)
+Translating theory into public infrastructure, the *CNE Radiant Booth v2.0* provides 100% off-grid solar power (400W PV + 1.2kWh LiFePO4), universal earthen *Matka* hydration marked with the 21cm neutral hydrogen line symbol ($\text{—}$), a science/dignity gallery, and Socratic AI dialogue to absorb ideological friction while preserving complete street-level anonymity.
+
+---
+
+## 5. Licensing & Open Access Declaration
+
+All documentation, theoretical modules, implementation blueprints, and historical retrospectives in this repository are released globally under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** license. 
+
+Knowledge is maintained as an open civilizational commons, preserving shared human identity and scientific literacy across deep-time horizons.
+
+
+
+
+
+
+
+
+-
 
