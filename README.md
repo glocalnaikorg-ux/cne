@@ -72,31 +72,3 @@ Translating theory into public infrastructure, the *CNE Radiant Booth v2.0* prov
 All documentation, theoretical modules, implementation blueprints, and historical retrospectives in this repository are released globally under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** license. 
 
 Knowledge is maintained as an open civilizational commons, preserving shared human identity and scientific literacy across deep-time horizons.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
--
-
