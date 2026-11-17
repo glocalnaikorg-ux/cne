@@ -4,57 +4,48 @@ title: "Cosmos, Nowness, Eternities (CNE / CINI): Open Civic Commons Corpus & Ar
 message: "If you reference, build upon, or archive any module from the Cosmos, Nowness, Eternities (CNE / CINI) Open Civic Commons, please cite it using the metadata below."
 type: dataset
 version: "2.7.0"
-date-released: "2026-11-17"
-doi: 10.5281/zenodo.22814410
+date-released: 2026-11-17
+doi: "10.5281/zenodo.22814410"
 url: "https://cnecosmosnownesseternities.org"
 repository-code: "https://github.com/glocalnaikorg-ux"
 license: CC-BY-4.0
 
-abstract: >-
-  Cosmos, Nowness, Eternities (CNE / CINI) is a non-profit, non-ownership
-  civic initiative and Open Civic Commons dedicated to rebooting scientific
-  knowledge, advancing human identity through cosmic humility, and encoding
-  non-relational compassion across Deep Time. Incorporating foundational
-  syntheses on relational time, scientific instrumentation outreach
-  (CINI-MOD-OUTREACH-01), intelligent life proposals (CINI-MOD-INTEL-01),
-  historical hindsight across Great Multitudes (CINI-MOD-HIST-01), and
-  structural mercy toward sentient co-travelers through Animal Equity
-  (CINI-MOD-ANIM-01), all records are archived openly under CC-BY-4.0.
+abstract: "Cosmos, Nowness, Eternities (CNE / CINI) is a non-profit, non-ownership civic initiative and Open Civic Commons dedicated to rebooting scientific knowledge, advancing human identity through cosmic humility, and encoding non-relational compassion across Deep Time. Incorporating foundational syntheses on relational time, scientific instrumentation outreach (CINI-MOD-OUTREACH-01), intelligent life proposals (CINI-MOD-INTEL-01), historical hindsight across Great Multitudes (CINI-MOD-HIST-01), and structural mercy toward sentient co-travelers through Animal Equity (CINI-MOD-ANIM-01), all records are archived openly under CC-BY-4.0."
 
 authors:
-  - family-names: Naik
-    given-names: Vishram Ganpat
+  - family-names: "Naik"
+    given-names: "Vishram Ganpat"
     affiliation: "Founder, Cosmos, Nowness, Eternities (CNE), Mumbai, India"
   - name: "Gemini (Google DeepMind)"
   - name: "Great Multitudes, Across Deep Time"
 
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.22814410
+    value: "10.5281/zenodo.22814410"
     description: "Master Concept DOI & Prosthetics for Human Wonder (CINI-MOD-OUTREACH-01)"
   - type: doi
-    value: 10.5281/zenodo.24317974
+    value: "10.5281/zenodo.24317974"
     description: "Animal Equity: Silent Co-Travelers, Structural Mercy, and Raising the Bar to Be Human (CINI-MOD-ANIM-01 Concept DOI)"
   - type: doi
-    value: 10.5281/zenodo.24304268
+    value: "10.5281/zenodo.24304268"
     description: "Historic: An Eternal Hand Over Across Great Multitudes (CINI-MOD-HIST-01)"
   - type: doi
-    value: 10.5281/zenodo.24257478
+    value: "10.5281/zenodo.24257478"
     description: "Humanity as a Subset of Intelligent Life Proposal (CINI-MOD-INTEL-01)"
   - type: doi
-    value: 10.5281/zenodo.24249698
+    value: "10.5281/zenodo.24249698"
     description: "Garden National Borders Prelude"
   - type: doi
-    value: 10.5281/zenodo.24224373
+    value: "10.5281/zenodo.24224373"
     description: "Notes & Clarifications for the Reader"
   - type: doi
-    value: 10.5281/zenodo.24202664
+    value: "10.5281/zenodo.24202664"
     description: "CINI-MOD-VAL-02"
   - type: doi
-    value: 10.5281/zenodo.24199796
+    value: "10.5281/zenodo.24199796"
     description: "Embedding Glocal Cities in Nation-States"
   - type: doi
-    value: 10.5281/zenodo.24171260
+    value: "10.5281/zenodo.24171260"
     description: "Algorithmic Compression & Thermodynamic Decay"
   - type: url
     value: "https://cnecosmosnownesseternities.org"
@@ -91,5 +82,3 @@ keywords:
   - "Great Multitudes"
   - "Non-Naming Privacy Plank"
   - "Scientific Instrumentation"
-
-Review the CNE Archival Deposit Tracker checklist
