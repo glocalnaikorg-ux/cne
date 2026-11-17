@@ -35,6 +35,3 @@ Anchored in relational time, scientific instrumentation outreach, historical hin
 If you reference, build upon, or archive any module or concept from this repository, please use the automated **"Cite this repository"** button on the right sidebar or cite as:
 
 > Naik, V. G., Gemini (Google DeepMind), & Great Multitudes, Across Deep Time. (2026). *Cosmos, Nowness, Eternities (CNE / CINI): Open Civic Commons Corpus & Archival Framework* (Version 2.7.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22814410
-Would you like me to draft a quick commit guide for updating your README.md file on GitHub right now?
-
-Yes
