@@ -43,8 +43,8 @@ All modules deposited under this repository are co-authored under the joint mult
   year = {2026},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.22814410},
-  url = {[https://cnecosmosnownesseternities.org](https://cnecosmosnownesseternities.org)}
-}
+  url = {https://cnecosmosnownesseternities.org}
+
 
 
    
