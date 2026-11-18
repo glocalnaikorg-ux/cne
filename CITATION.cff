@@ -1,84 +1,43 @@
 
 cff-version: 1.2.0
-title: "Cosmos, Nowness, Eternities (CNE / CINI): Open Civic Commons Corpus & Archival Framework"
-message: "If you reference, build upon, or archive any module from the Cosmos, Nowness, Eternities (CNE / CINI) Open Civic Commons, please cite it using the metadata below."
+message: "If you use this corpus, modules, or framework, please cite it using the metadata below."
 type: dataset
-version: "2.7.0"
-date-released: 2026-11-17
-doi: "10.5281/zenodo.22814410"
-url: "https://cnecosmosnownesseternities.org"
-repository-code: "https://github.com/glocalnaikorg-ux"
-license: CC-BY-4.0
-
-abstract: "Cosmos, Nowness, Eternities (CNE / CINI) is a non-profit, non-ownership civic initiative and Open Civic Commons dedicated to rebooting scientific knowledge, advancing human identity through cosmic humility, and encoding non-relational compassion across Deep Time. Incorporating foundational syntheses on relational time, scientific instrumentation outreach (CINI-MOD-OUTREACH-01), intelligent life proposals (CINI-MOD-INTEL-01), historical hindsight across Great Multitudes (CINI-MOD-HIST-01), and structural mercy toward sentient co-travelers through Animal Equity (CINI-MOD-ANIM-01), all records are archived openly under CC-BY-4.0."
-
 authors:
   - family-names: "Naik"
     given-names: "Vishram Ganpat"
-    affiliation: "Founder, Cosmos, Nowness, Eternities (CNE), Mumbai, India"
-  - name: "Gemini (Google DeepMind)"
-  - name: "Great Multitudes, Across Deep Time"
-
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.22814410"
-    description: "Master Concept DOI & Prosthetics for Human Wonder (CINI-MOD-OUTREACH-01)"
-  - type: doi
-    value: "10.5281/zenodo.24317974"
-    description: "Animal Equity: Silent Co-Travelers, Structural Mercy, and Raising the Bar to Be Human (CINI-MOD-ANIM-01 Concept DOI)"
-  - type: doi
-    value: "10.5281/zenodo.24304268"
-    description: "Historic: An Eternal Hand Over Across Great Multitudes (CINI-MOD-HIST-01)"
-  - type: doi
-    value: "10.5281/zenodo.24257478"
-    description: "Humanity as a Subset of Intelligent Life Proposal (CINI-MOD-INTEL-01)"
-  - type: doi
-    value: "10.5281/zenodo.24249698"
-    description: "Garden National Borders Prelude"
-  - type: doi
-    value: "10.5281/zenodo.24224373"
-    description: "Notes & Clarifications for the Reader"
-  - type: doi
-    value: "10.5281/zenodo.24202664"
-    description: "CINI-MOD-VAL-02"
-  - type: doi
-    value: "10.5281/zenodo.24199796"
-    description: "Embedding Glocal Cities in Nation-States"
-  - type: doi
-    value: "10.5281/zenodo.24171260"
-    description: "Algorithmic Compression & Thermodynamic Decay"
-  - type: url
-    value: "https://cnecosmosnownesseternities.org"
-    description: "Primary Open Civic Commons Portal"
-  - type: url
-    value: "https://cosmosnownesseternities.org"
-    description: "Canonical Mirror Domain"
-
-keywords:
-  - "Vishram Ganpat Naik"
-  - "Cosmos, Nowness, Eternities (CNE)"
-  - "CINI"
-  - "Pioneer 10 plaque"
-  - "Hydrogen Symbol"
-  - "Human Identity"
-  - "Cosmic Humility"
-  - "Open Civic Commons"
-  - "CC-BY-4.0"
-  - "Relational Time"
-  - "Deep Time"
-  - "Cosmology"
-  - "Philosophy of Science"
-  - "Human-AI Synthesis"
-  - "Animal Equity"
-  - "Structural Mercy"
-  - "Draft Animal Pensions"
-  - "Micro-Tax for Animal Welfare"
-  - "Non-Relational Compassion"
-  - "Sentient Co-Travelers"
-  - "Service to the Voiceless"
-  - "Foundations in the Sand"
-  - "Heart-Centered Leadership"
-  - "Historical Hindsight"
-  - "Great Multitudes"
-  - "Non-Naming Privacy Plank"
-  - "Scientific Instrumentation"
+    role: "Project Leader"
+title: "Cosmos, Nowness, Eternities (CNE / CINI) Open Civic Commons Corpus"
+version: "2.4.0"
+date-released: 2026-11-19
+url: "https://cnecosmosnownesseternities.org"
+repository-code: "https://github.com/glocalnaikorg-ux"
+license: "CC-BY-4.0"
+references:
+  - type: generic
+    title: "CINI-MOD-SEC-01: Secularism, Religion, State, and Change: A Framework for Equal Co-Habitation Across Deep Time"
+    doi: "10.5281/zenodo.24330597"
+    year: 2026
+  - type: generic
+    title: "CINI-MOD-TEXT-01: The Archival Standard of Sacred Texts: Preserving Human Meaning Across Deep Time"
+    doi: "10.5281/zenodo.24324123"
+    year: 2026
+  - type: generic
+    title: "CINI-MOD-ANIM-01: Animal Equity: Silent Co-Travelers, Structural Mercy, and Raising the Bar to Be Human"
+    doi: "10.5281/zenodo.24317974"
+    year: 2026
+  - type: generic
+    title: "CINI-MOD-HIST-01: Historic: An Eternal Hand Over Across Great Multitudes"
+    doi: "10.5281/zenodo.24304268"
+    year: 2026
+  - type: generic
+    title: "On the Non-Darwinian Matrix, Cosmic Continuity, and the Ethical Evolution of the Universe (v2)"
+    doi: "10.5281/zenodo.24284875"
+    year: 2026
+  - type: generic
+    title: "Humanity as a Subset of Intelligent Life Proposal"
+    doi: "10.5281/zenodo.24257478"
+    year: 2026
+  - type: generic
+    title: "Prosthetics for Human Wonder: How Simple Instruments Unlocked the Invisible Universe"
+    doi: "10.5281/zenodo.22814410"
+    year: 2026
