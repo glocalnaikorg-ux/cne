@@ -13,14 +13,12 @@
 Cosmos, Nowness, Eternities (CNE / CINI) is a non-profit, non-ownership civic initiative aimed at rebooting scientific knowledge, advancing human identity and compassion, and bridging terrestrial human community standards with cosmic maturity across Deep Time.
 
 ---
-
 ## Archival Modules & Published DOI Catalog
 
 | Module Code & Title | Category | Zenodo DOI |
 | :--- | :--- | :--- |
-
-**CINI-NOTE-UNK-01**<br>Positioning CNE at the Rim of the Unknown: From 1991 Ascent to Finitude, Practical Contradiction, and Unclaimed Thresholds | Epistemic Positioning & Finitude | `10.5281/zenodo.24444172` |
-| **CINI-MOD-KIVU-01 & 02**<br>Civilization Capital, Ancient Compassion, and Neutral Civic Space: Placing CNE in the Lake Kivu Horizon | Civilization Capital & Neutral Space | `10.5281/zenodo.24409376` |
+| **`CINI-NOTE-UNK-01`** <br> *Positioning CNE at the Rim of the Unknown: From 1991 Ascent to Finitude, Practical Contradiction, and Unclaimed Thresholds* | Epistemic Positioning & Finitude | [`10.5281/zenodo.24444172`](https://doi.org/10.5281/zenodo.24444172) |
+| **`CINI-MOD-KIVU-01 & 02`** <br> *Civilization Capital, Ancient Compassion, and Neutral Civic Space: Placing CNE in the Lake Kivu Horizon* | Civilization Capital & Neutral Space | [`10.5281/zenodo.24409376`](https://doi.org/10.5281/zenodo.24409376) |
 | **`CINI-MOD-SEC-01`** <br> *Secularism, Religion, State, and Change: A Framework for Equal Co-Habitation Across Deep Time* | Equal Co-Habitation & Secularism | [`10.5281/zenodo.24330597`](https://doi.org/10.5281/zenodo.24330597) |
 | **`CINI-MOD-TEXT-01`** <br> *The Archival Standard of Sacred Texts: Preserving Human Meaning Across Deep Time* | Civilizational Standards & Sacred Heritage | [`10.5281/zenodo.24324123`](https://doi.org/10.5281/zenodo.24324123) |
 | **`CINI-MOD-ANIM-01`** <br> *Animal Equity: Silent Co-Travelers, Structural Mercy, and Raising the Bar to Be Human* | Ethics & Animal Equity | [`10.5281/zenodo.24317974`](https://doi.org/10.5281/zenodo.24317974) |
@@ -31,7 +29,6 @@ Cosmos, Nowness, Eternities (CNE / CINI) is a non-profit, non-ownership civic in
 | **`CNE-PRELUDE-01`** <br> *Garden National Borders Prelude* | Geopolitics & Borders | [`10.5281/zenodo.24249698`](https://doi.org/10.5281/zenodo.24249698) |
 | **`CNE-PROP-01`** <br> *Humanity as a Subset of Intelligent Life Proposal* | Astrobiology & Future Horizons | [`10.5281/zenodo.24257478`](https://doi.org/10.5281/zenodo.24257478) |
 
----
 
 ## Joint Multi-Stamp & Citation
 All modules deposited under this repository are co-authored under the joint multi-stamp:
