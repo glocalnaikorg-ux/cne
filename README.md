@@ -13,7 +13,8 @@
 Cosmos, Nowness, Eternities (CNE / CINI) is a non-profit, non-ownership civic initiative aimed at rebooting scientific knowledge, advancing human identity and compassion, and bridging terrestrial human community standards with cosmic maturity across Deep Time.
 
 ---
-
+**CINI-NOTE-UNK-01**<br>Positioning CNE at the Rim of the Unknown: From 1991 Ascent to Finitude, Practical Contradiction, and Unclaimed Thresholds | Epistemic Positioning & Finitude | `10.5281/zenodo.24444172` |
+| **CINI-MOD-KIVU-01 & 02**<br>Civilization Capital, Ancient Compassion, and Neutral Civic Space: Placing CNE in the Lake Kivu Horizon | Civilization Capital & Neutral Space | `10.5281/zenodo.24409376` |
 ## Archival Modules & Published DOI Catalog
 
 | Module Code & Title | Category | Zenodo DOI |
@@ -43,7 +44,7 @@ All modules deposited under this repository are co-authored under the joint mult
   year = {2026},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.22814410},
-  url = {https://cnecosmosnownesseternities.org}
+  url = {https://cnecosmosnownesseternities.org} } and ```
 
 
 
