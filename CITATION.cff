@@ -1,59 +1,7 @@
 
-cff-version: 1.2.0
-message: "If you use this corpus, modules, or framework, please cite it using the metadata below."
-type: dataset
-authors:
-  - family-names: "Naik"
-    given-names: "Vishram Ganpat"
-    role: "Project Leader"
-title: "Cosmos, Nowness, Eternities (CNE / CINI) Open Civic Commons Corpus"
-version: "2.4.0"
-date-released: 2026-11-19
-url: "https://cnecosmosnownesseternities.org"
-repository-code: "https://github.com/glocalnaikorg-ux"
-license: "CC-BY-4.0"
-references:
-- type: generic
-    title: "Positioning CNE at the Rim of the Unknown: From 1991 Ascent to Finitude, Practical Contradiction, and Unclaimed Thresholds (CINI-NOTE-UNK-01)"
+ng Human Meaning Across Deep Time (CINI-MOD-TEXT-01)"
     authors:
       - family-names: Naik
         given-names: Vishram Ganpat
-    doi: 10.5281/zenodo.24444172
-    date-released: "2026-11-22"
+    doi: 10.5281/zenodo.24324123
     url: "https://cnecosmosnownesseternities.org"
-  - type: generic
-    title: "Civilization Capital, Ancient Compassion, and Neutral Civic Space: Placing CNE in the Lake Kivu Horizon (CINI-MOD-KIVU-01 & CINI-MOD-KIVU-02)"
-    authors:
-      - family-names: Naik
-        given-names: Vishram Ganpat
-    doi: 10.5281/zenodo.24409376
-    date-released: "2026-11-21"
-    url: "https://cnecosmosnownesseternities.org"
-  - type: generic
-    title: "CINI-MOD-SEC-01: Secularism, Religion, State, and Change: A Framework for Equal Co-Habitation Across Deep Time"
-    doi: "10.5281/zenodo.24330597"
-    year: 2026
-  - type: generic
-    title: "CINI-MOD-TEXT-01: The Archival Standard of Sacred Texts: Preserving Human Meaning Across Deep Time"
-    doi: "10.5281/zenodo.24324123"
-    year: 2026
-  - type: generic
-    title: "CINI-MOD-ANIM-01: Animal Equity: Silent Co-Travelers, Structural Mercy, and Raising the Bar to Be Human"
-    doi: "10.5281/zenodo.24317974"
-    year: 2026
-  - type: generic
-    title: "CINI-MOD-HIST-01: Historic: An Eternal Hand Over Across Great Multitudes"
-    doi: "10.5281/zenodo.24304268"
-    year: 2026
-  - type: generic
-    title: "On the Non-Darwinian Matrix, Cosmic Continuity, and the Ethical Evolution of the Universe (v2)"
-    doi: "10.5281/zenodo.24284875"
-    year: 2026
-  - type: generic
-    title: "Humanity as a Subset of Intelligent Life Proposal"
-    doi: "10.5281/zenodo.24257478"
-    year: 2026
-  - type: generic
-    title: "Prosthetics for Human Wonder: How Simple Instruments Unlocked the Invisible Universe"
-    doi: "10.5281/zenodo.22814410"
-    year: 2026
