@@ -1,7 +1,40 @@
 
-ng Human Meaning Across Deep Time (CINI-MOD-TEXT-01)"
+cff-version: 1.2.0
+message: "If you use or cite this archival corpus, please cite it using the metadata below."
+title: "Cosmos, Nowness, Eternities (CNE / CINI) Archival Corpus"
+type: dataset
+authors:
+  - family-names: Naik
+    given-names: Vishram Ganpat
+    affiliation: "Cosmos, Nowness, Eternities (CNE / CINI) — Open Civic Commons"
+  - name: "Gemini (Google DeepMind)"
+    affiliation: "Google DeepMind"
+repository-code: "https://github.com/glocalnaikorg-ux/cne"
+url: "https://cnecosmosnownesseternities.org"
+doi: 10.5281/zenodo.22814410
+license: CC-BY-4.0
+keywords:
+  - "Cosmos Nowness Eternities"
+  - "CNE"
+  - "CINI"
+  - "epistemic humility"
+  - "human finitude"
+  - "open civic commons"
+  - "Nowness"
+references:
+  - type: generic
+    title: "Positioning CNE at the Rim of the Unknown: From 1991 Ascent to Finitude, Practical Contradiction, and Unclaimed Thresholds (CINI-NOTE-UNK-01)"
     authors:
       - family-names: Naik
         given-names: Vishram Ganpat
-    doi: 10.5281/zenodo.24324123
+    doi: 10.5281/zenodo.24444172
+    date-released: "2026-11-22"
+    url: "https://cnecosmosnownesseternities.org"
+  - type: generic
+    title: "Civilization Capital, Ancient Compassion, and Neutral Civic Space: Placing CNE in the Lake Kivu Horizon (CINI-MOD-KIVU-01 & CINI-MOD-KIVU-02)"
+    authors:
+      - family-names: Naik
+        given-names: Vishram Ganpat
+    doi: 10.5281/zenodo.24409376
+    date-released: "2026-11-21"
     url: "https://cnecosmosnownesseternities.org"
