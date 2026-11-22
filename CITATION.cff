@@ -13,6 +13,22 @@ url: "https://cnecosmosnownesseternities.org"
 repository-code: "https://github.com/glocalnaikorg-ux"
 license: "CC-BY-4.0"
 references:
+- type: generic
+    title: "Positioning CNE at the Rim of the Unknown: From 1991 Ascent to Finitude, Practical Contradiction, and Unclaimed Thresholds (CINI-NOTE-UNK-01)"
+    authors:
+      - family-names: Naik
+        given-names: Vishram Ganpat
+    doi: 10.5281/zenodo.24444172
+    date-released: "2026-11-22"
+    url: "https://cnecosmosnownesseternities.org"
+  - type: generic
+    title: "Civilization Capital, Ancient Compassion, and Neutral Civic Space: Placing CNE in the Lake Kivu Horizon (CINI-MOD-KIVU-01 & CINI-MOD-KIVU-02)"
+    authors:
+      - family-names: Naik
+        given-names: Vishram Ganpat
+    doi: 10.5281/zenodo.24409376
+    date-released: "2026-11-21"
+    url: "https://cnecosmosnownesseternities.org"
   - type: generic
     title: "CINI-MOD-SEC-01: Secularism, Religion, State, and Change: A Framework for Equal Co-Habitation Across Deep Time"
     doi: "10.5281/zenodo.24330597"
